@@ -1,0 +1,14 @@
+.iu.secondary.pointing.menu.item{
+    border-color: #20b9e0 ;
+    color: #20b9e0 ;
+}
+.ui.secondary.pointing.menu .active.item{
+    border-color: #20b9e0;
+    color: #20b9e0;
+}
+
+.ui.secondary.pointing.menu .active.item:hover{
+    border-color: #20b9e0;
+    color: #20b9e0;
+}
+

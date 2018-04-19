@@ -1,0 +1,15 @@
+[
+  { "id": 1,"name": "Canada", "languages": [
+    { "id": 1, "name": "French", "commands":["a la carte","adroit","armoire","au contraire","au jus","au revoir","ballet","beaucoup","belle","bon vivant","cafe","carte blanche","chapeau","chauffeur"]},
+    { "id": 2, "name": "English", "commands":["tray","madly","sick","relieved","plastic","volatile","marvelous","butter","veil","start","stop","continue"]}
+  ] },
+  { "id": 2,"name": "Asia", "languages": [
+    { "id": 1, "name": "Japanese", "commands":["トイレ","手洗い","助けて","わかりません","やめて","英語","服","死にそう","警察","危ない","危険"]},
+    { "id": 2, "name": "Korean", "commands":["어울리다","복잡하다","좋다","나쁘다","비싸다","싸다","피곤하다","물어보다","입다","신다","돌아오다","기분이 좋다","어때요?"]},
+    { "id": 3, "name": "Arabic", "commands":["اعتزم","حرص علي","توحش","أنعم","انتقاص","انتهب","قفر","ينال","أرومة","سواء","فصّل","غزارة","برّر","أخضع"]}
+  ] },
+  { "id": 3,"name": "Europe", "languages": [
+    { "id": 1, "name": "German", "commands":["deutsch","lernen","wenig","sprechen","schön","mögen","einige","besser","gehen","Sprache","offen ","wohnen","Schritt"]},
+    { "id": 2, "name": "Swedish", "commands":["trång","barn","människa","djur","mask","blomma","gräs","ägg","huvud","stjärt","fot","skratta","höra","sova"]}
+  ] }
+]

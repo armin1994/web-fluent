@@ -127,7 +127,7 @@ module.exports = [
   // ==============================
   {
     test: /\.css/,
-    include: path.resolve(__dirname, "node_modules"),
+    include: [path.resolve(__dirname, "node_modules"),path.resolve(__dirname, 'styles/base')],
     use: [
       {
         loader: "style-loader"
